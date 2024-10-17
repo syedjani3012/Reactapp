@@ -1,8 +1,11 @@
+import './App.css';
+
 function App() {
   return (
-    <div>
-    <h1>Hello World</h1>
-    <h2>Git committed succesfullly</h2>
+    <div id="login">
+    <h1> Login with OTP </h1>
+    <p>Mobile number: <input></input></p>
+    <button>Login</button>
     </div>
   );
 }
